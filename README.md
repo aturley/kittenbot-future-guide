@@ -17,7 +17,7 @@ The KittenBot Future board is an ESP32-based IoT development board. It has:
 
 The board can be programmed using the [KittenBlock](https://www.kittenbot.cc/pages/software) development environment, using either a [Scratch](https://scratch.mit.edu/)-based visual language or directly in [MicroPython](https://docs.micropython.org/en/latest/esp32/quickref.html).
 
-Most of the documentation is in Chinese. This documention is unoffical and is an attempt to help share information about the system with English-speakers.
+For official information there's [online documentation](https://kittenbothk-eng.readthedocs.io/en/latest/futureboard/index.html#) and [blog posts with tutorials](https://www.kittenbot.cc/blogs/learn/tagged/future-board).
 
 ## KittenBlock
 
